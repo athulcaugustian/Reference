@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612466711356",
+    "firebase_url": "https://musicplayer-2ceab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "musicplayer-2ceab",
+    "storage_bucket": "musicplayer-2ceab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612466711356:android:5d9febcaf5dbd39e751c39",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612466711356-skv7viaqhn3kahbjn210iv80upmqi6c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkqKvae_CctvI-BdSX3-tTdObHFy58P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612466711356-skv7viaqhn3kahbjn210iv80upmqi6c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
